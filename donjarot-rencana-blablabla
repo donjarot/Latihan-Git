@@ -5,6 +5,7 @@ Rencana
 - Databse
   * Mysql
   * PostgresSql
+  * MongoDB
 - Javascript Frontend
  * ReactJS
  * VueJS
